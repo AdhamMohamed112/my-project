@@ -1,0 +1,32 @@
+.fot{
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 330px;
+    gap: 250px;
+    margin-top: 20px;
+}
+.stuf2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.stuf1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.stuf1 button{
+    border: none;
+    padding: 10px;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
+.stuf2 a{
+    text-decoration: none;
+    color: #fff;
+}

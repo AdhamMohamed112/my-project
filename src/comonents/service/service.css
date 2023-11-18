@@ -1,0 +1,15 @@
+.img{
+    background-image: url('../../assets/ser1.jfif');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    position: relative;
+}.img p{
+    opacity: 0.5;
+    margin: auto;
+    position: absolute;
+    top: 150px;
+
+
+}

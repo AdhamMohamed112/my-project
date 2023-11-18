@@ -1,0 +1,11 @@
+.imgs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.imgs img{
+    width: 23%;
+    border: 3px #000 solid;
+}
